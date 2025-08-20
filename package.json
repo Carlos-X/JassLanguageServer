@@ -1,0 +1,14 @@
+{
+    "name": "jass",
+    "publisher": "Carlos",
+    "description" : "Jass Language Server",
+    "version": "1.0.0",
+    "engines" : {
+        "vscode": "^1.75.0"
+    },
+    "license": "MIT",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Carlos-X/JassLanguageServer"
+	}
+}
